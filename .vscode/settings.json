@@ -1,0 +1,9 @@
+{
+	"editor.defaultFormatter": null,
+	"[javascript]": {
+		"editor.defaultFormatter": "esbenp.prettier-vscode"
+	}, 
+    "editor.tabSize": 4,
+	"editor.wordWrap": "on",
+	"java.configuration.updateBuildConfiguration": "automatic"
+}

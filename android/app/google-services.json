@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "890283065088",
+    "project_id": "imageeditor-c18c6",
+    "storage_bucket": "imageeditor-c18c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890283065088:android:055bdc8e78ac77d3a4bde5",
+        "android_client_info": {
+          "package_name": "com.image_editor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890283065088-ramkmkfm0qjferumuar3chtchbolscuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB543_A922i37t7YH4gGdrpjWdD_222420"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890283065088-ramkmkfm0qjferumuar3chtchbolscuq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "890283065088-kcmptb8u0rr6gp91t18f428jn3nns7un.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.imageeditor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
